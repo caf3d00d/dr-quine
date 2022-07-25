@@ -4,4 +4,4 @@ project(dr_quine C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(dr_quine
-        C/Coleen/Colleen.c)
+        C/Grace/grace.c)
